@@ -8,5 +8,5 @@ Régressions linéaires simples et multiples, méthode forward stepwise (critèr
 
 ### Objectif du projet : 
 
-Analyse, modélisation et prédiction des prix de propriétés vendues à partir de données issues du dataset :
+Analyse, modélisation et prédiction des prix de propriétés vendues à partir des données issues du dataset :
 https://www.kaggle.com/datasets/shree1992/housedata
