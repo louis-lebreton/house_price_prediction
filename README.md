@@ -1,16 +1,16 @@
-# Analyse & modélisation des prix de propriétés vendues aux Etats-Unis (Comté de King - Etat de Washington)
+# Analysis & modeling of property sale prices in the United States (King County - State of Washington)
 <p align="center">
 <img src="carte_prix_m2.jpeg" alt="Carte prix au m2" width="650"/>
 </p>
 
-### Objectif du projet : 
-
-Analyse, modélisation et prédiction des prix de propriétés vendues à partir des données issues du dataset :
+### Project goal : 
+Analysis, modeling, and prediction of property sale prices using data from the dataset:
 https://www.kaggle.com/datasets/shree1992/housedata
 
-### Méthodes statistiques utilisées : 
-Régressions linéaires simples et multiples, méthode forward stepwise (critères AIC et BIC)
-### Librairies utilisées :
+### Statistical methods used : 
+Linear regressions, forward stepwise method (AIC and BIC criteria).
+
+### Libraries used:
 ggplot2, lubridate, tidyr, dplyr, ggcorrplot, openxlsx, lmtest, geojsonio, broom, viridis.
 
 
